@@ -8,7 +8,7 @@ spring-boot-starter for disconf
 
 ## 快速开始
 
-1. 引入maven依赖，**如有需要，可自行发布到私服引用**
+1. 引入maven依赖，如有需要，可自行发布到私服引用
 
    ```java
    <dependency>
@@ -95,7 +95,7 @@ spring-boot-starter for disconf
 
    [https://github.com/foolishboy66/springboot-disconf-test.git](https://github.com/foolishboy66/springboot-disconf-test.git)
 
-4. 代码参考了如下同学代码（**请尊重他们劳动成果**）
+4. 代码参考了如下同学代码（**请尊重他们的劳动成果**）
 
    [https://github.com/xjzrc/disconf-spring-boot-starter.git](https://github.com/xjzrc/disconf-spring-boot-starter.git)
 

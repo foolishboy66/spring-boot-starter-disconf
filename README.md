@@ -22,7 +22,7 @@ spring-boot-starter for disconf
 
    - [x] application.properties
 
-     ```java
+     ```properties
      # 使用cglib的aop
      spring.aop.proxy-target-class=true
      # 扫描包的基础路径
@@ -57,8 +57,8 @@ spring-boot-starter for disconf
      
    - [x] application.yml
 
-     ```java
-  spring:
+     ```yaml
+     spring:
        # 使用cglib的aop
        aop:
          proxy-target-class: true
@@ -90,7 +90,9 @@ spring-boot-starter for disconf
          # 版本, 请采用 X_X_X_X 格式
          version: '1_0_0_0'
      ```
-   
+     
+     
+
 3. demo可以参考pringboot-disconf-test工程，git地址如下：
 
    [https://github.com/foolishboy66/springboot-disconf-test.git](https://github.com/foolishboy66/springboot-disconf-test.git)
